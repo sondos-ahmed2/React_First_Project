@@ -1,4 +1,5 @@
 # Solar Explorer
+
 ## About The Project
 Solar Explorer is a responsive website that allows users to explore the Solar System and discover information about its planets and Users can browse the planets and view detailed information about each planet.
 ## tech stack
