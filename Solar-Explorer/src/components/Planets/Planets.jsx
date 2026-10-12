@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import axios from "axios";
 import { Link } from "react-router-dom";
-import "./Planets.css";
+import "./planets.css";
 export default function Planets() {
   const [planets, setPlanets] = useState([]);
   const [loading, setLoading] = useState(true);
