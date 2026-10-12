@@ -1,0 +1,12 @@
+img {
+  width: 55%;
+  max-height: 400px;
+  object-fit: contain;
+  transition: all 0.3s;
+}
+img:hover {
+  transform: scale(0.8);
+}
+.para-details {
+  font-size: 17px;
+}

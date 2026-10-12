@@ -1,0 +1,6 @@
+.planet-card {
+  transition: transform 0.3s ;
+}
+.planet-card:hover {
+  transform: translateY(-5px);
+}
